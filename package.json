@@ -1,0 +1,12 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/API-Creator-Brazil/node-jwt.git",
+  "author": "diogoX451 <diogo.g07@icloud.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
